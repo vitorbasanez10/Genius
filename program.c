@@ -278,3 +278,28 @@ void loop()
 	break;
 	}
 }
+//
+//	for(uint8_t i = 0; i < level; i++)
+//	{
+//		GPIOD->ODR &= ~(1  << (led + 12));
+//		while(lc == led)
+//		{
+//			lc = (random() % 4);
+//		}
+//		led = lc;
+//		GPIOD->ODR |= (1  <<  (led + 12));
+//
+//		blink_led[i] = (1  <<  (led + 12));
+//
+//		HAL_Delay(1000);
+//	}
+
+//
+//	//		GPIOD->ODR &= ~(1  << (led + 12));
+//	//		led = (random() % 4);
+//	//		GPIOD->ODR |= (1  <<  (led + 12));
+//
+//	//		GPIOD->ODR &= ~(1  << ((led++) + 12));
+//	//		led = (led % 4);
+//	//		GPIOD->ODR |= (1  <<  (led + 12));
+//}
