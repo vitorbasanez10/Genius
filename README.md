@@ -9,3 +9,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/79164935/191833561-5d5084db-3cee-43d7-b743-782c9a1dbcb9.jpg" width="500px" />
 </div> 
+
+* Pinout and configuration
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79164935/202506907-5eb2ff53-e69c-4464-ac96-a51dbb922666.png" width="500px" />
+</div> 
