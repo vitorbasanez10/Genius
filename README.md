@@ -7,7 +7,7 @@
 * The game was created with the aim of studying the STM32CubeIDE software and the STMicroelectronics board
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/79164935/191833561-5d5084db-3cee-43d7-b743-782c9a1dbcb9.jpg" width="500px" />
+<img src="https://user-images.githubusercontent.com/79164935/191833561-5d5084db-3cee-43d7-b743-782c9a1dbcb9.jpg" width="400px" />
 </div> 
 
 ##
