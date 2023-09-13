@@ -11,7 +11,7 @@
 </div> 
 
 ##
-**Software**
+**Software and Hardware**
 * Pinout and configuration of the board
 
 <div align="center">
